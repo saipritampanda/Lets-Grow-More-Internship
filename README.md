@@ -41,4 +41,5 @@ A Scientific calculator built using Java is a general-purpose application whose 
 
 --------------------------
 
-#MADE BY SAI PRITAM PANDA
+🌟 MADE BY SAI PRITAM PANDA
+🌟 LinkedIn: https://www.linkedin.com/in/sai-pritam-panda-4bb115231/
